@@ -1,5 +1,4 @@
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=260&section=header&text=Sabarish&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Full%20Stack%20Developer&descAlignY=60"/>
-
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=260&section=header&text=Sabarish&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 # 👋 Hi, I'm Sabarish
 
 **B.Tech Computer Science Student @ Sathyabama Institute of Science and Technology**
