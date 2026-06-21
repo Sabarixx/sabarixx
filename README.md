@@ -4,7 +4,7 @@
 
 **B.Tech Computer Science Student @ Sathyabama Institute of Science and Technology**
 
-🎓 Expected Graduation: May 2027
+🎓 Expected Graduation: May 2028
 💻 Building full-stack ML applications, currently on semester leave to focus on portfolio projects
 🚀 Currently building **MLForge** — a full-stack ML experimentation platform
 
