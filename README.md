@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,25:3B82F6,50:60A5FA,75:93C5FD,100:2563EB&height=260&section=header&text=Sabarish&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Full%20Stack%20Developer&descAlignY=60"/>
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=260&section=header&text=Sabarish&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Full%20Stack%20Developer&descAlignY=60"/>
 
 # 👋 Hi, I'm Sabarish
 
